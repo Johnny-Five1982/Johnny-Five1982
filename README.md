@@ -23,7 +23,9 @@ Here are some ideas to get you started:
    <a href="mailto:username@domain.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
    <a href="https://leetcode.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
    <a href="https://www.buymeacoffee.com/seven"><img height="30" src="https://github.com/Johnny-Five1982/Johnny-Five1982/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-   <a href="https://xbox.com"><img height="30" src="https://img.shields.io/badge/battlestar%20-%23107C10.svg?&style=flat-square&logo=Xbox&logoColor=white"/></a>
+   <a href="https://xbox.com"><img height="30" src="https://img.shields.io/badge/ElectronFlux571%20-%23107C10.svg?&style=flat-square&logo=Xbox&logoColor=white"/></a>
+   <a href="https://xbox.com"><img height="30" src="https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcS9jr0n8i7LY1tL3U7AiafUxWiVFofIdU2gur54fgFcYIV2V5.TAzxdqPpr5pORe9&format=jpg&h=253&w=253"/></a>
+   
 </p>
 
 <p align='center'>
